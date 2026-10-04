@@ -1,12 +1,12 @@
 # F1 Analytics API
 
-![CI](https://github.com/SEU_USUARIO/SEU_REPO/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/AngelusDaniel/F1_Analytics/actions/workflows/ci.yml/badge.svg)
 
 API em FastAPI que serve resultados históricos de F1 e **compara a volta mais rápida de dois pilotos**
 (velocidade, acelerador, freio, marcha e delta de tempo), com um dashboard em Streamlit que inclui
 um replay animado da volta.
 
-**Demo:** _link do dashboard_ · **API (Swagger):** _link_/docs
+**Demo:** [_link do dashboard_](https://f1analytics-auortuffm7nhtjzdynm9c3.streamlit.app/) · **API (Swagger):** [_link_/docs](https://f1-analytics-f4qa.onrender.com/docs)
 > A demo roda em plano gratuito: se estiver parada, a primeira visita pode levar cerca de 1 minuto para acordar.
 
 ![replay](docs/replay.gif)
