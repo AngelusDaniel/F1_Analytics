@@ -1,7 +1,7 @@
 """Ingere resultados de corridas da Jolpica-F1 no PostgreSQL.
 
 Uso:
-    python -m scripts.ingest --from 2018 --to 2025
+    python -m scripts.ingest --from 2020 --to 2025
 
 É idempotente: pode rodar várias vezes sem duplicar dados.
 """
