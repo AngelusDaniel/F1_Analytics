@@ -2,7 +2,6 @@
 
 Projeto independente para estudos, sem vínculo com a Formula 1.
 
-![CI](https://github.com/AngelusDaniel/F1_Analytics/actions/workflows/ci.yml/badge.svg)
 
 API em FastAPI que serve resultados históricos de F1 e **compara a volta mais rápida de dois pilotos**
 (velocidade, acelerador, freio, marcha e delta de tempo), com um dashboard em Streamlit que inclui
