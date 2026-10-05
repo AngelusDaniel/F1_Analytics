@@ -82,3 +82,5 @@ ordenação de resultados e o cálculo do delta.
 4. **Dashboard:** no Streamlit Community Cloud, aponte para `dashboard/app.py` e defina `API_URL` com a URL da API do Render.
 
 Confira os limites atuais de cada plano nas páginas oficiais antes de publicar.
+
+Claude usado como apoio.
